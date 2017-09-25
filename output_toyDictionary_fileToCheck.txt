@@ -1,0 +1,3 @@
+catts: => cats 
+lik: => like 
+o: => of on to 
